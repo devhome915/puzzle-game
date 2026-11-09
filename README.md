@@ -2,6 +2,8 @@
 
 Um jogo de quebra-cabeça deslizante (15-puzzle) feito com React, TypeScript e Vite. O tabuleiro tem 4 × 4 casas: 15 peças numeradas e um espaço vazio. O objetivo é reorganizar as peças em ordem crescente, deixando o espaço vazio no canto inferior direito.
 
+Jogue online: [devhome915.github.io/puzzle-game](https://devhome915.github.io/puzzle-game/).
+
 ## Requisitos
 
 - Node.js 20.19+ ou 22.12+ (necessário para a versão do Vite usada pelo projeto).
